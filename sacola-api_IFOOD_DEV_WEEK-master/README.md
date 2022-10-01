@@ -70,5 +70,4 @@
 </table>
 
 <h3>Contato</h3>
-
 <a href="https://www.linkedin.com/in/henrique-leonardo">
