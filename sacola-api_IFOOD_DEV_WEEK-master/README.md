@@ -68,6 +68,3 @@
 	<td>2.1.214</td>
 </tr>
 </table>
-
-<h3>Contato</h3>
-<a href="https://www.linkedin.com/in/henrique-leonardo">
